@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Department
+comment0.text=\r\n\ This\ is\ a\ Store\ class\ which\ is\ a\ super\ class\ of\ Department\ and\ Retailer\r\n\ @author\ (Reman\ Shrestha)\r\n\ NP05CP4S240090\r\n\ London\ met\ ID\:\ 23056715\r\n
+comment1.params=storeId\ storeName\ location\ openingHour\ totalSales\ totalDiscount\ productName\ markedPrice
+comment1.target=Department(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getProductName()
+comment3.params=
+comment3.target=double\ getMarkedPrice()
+comment4.params=
+comment4.target=double\ getSellingPrice()
+comment5.params=
+comment5.target=boolean\ isInSales()
+comment6.params=markedPrice
+comment6.target=void\ setMarkedPrice(double)
+comment7.params=isInSales\ markedPrice
+comment7.target=void\ calculateDiscountPrice(boolean,\ double)
+comment8.params=
+comment8.target=void\ display()
+numComments=9
